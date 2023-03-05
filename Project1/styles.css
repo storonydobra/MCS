@@ -1,0 +1,18 @@
+body {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    margin-bottom: 35px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
